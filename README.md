@@ -8,7 +8,7 @@ A Flutter application that provides local weather updates using the OpenWeather 
 - Beautiful UI with dynamic weather icons
 
 ## Screenshots
-<img src="assets/wea.png" alt="Weather App" width="300"/>  
+<img src="assets/wea.png" alt="Weather App" width="200"/>  
 
 ## Getting Started
 
